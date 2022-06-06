@@ -1,0 +1,2367 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,400&display=swap');
+
+
+
+
+
+#fon{
+position: absolute;
+width: 100%;
+height: 4824px;
+top: 0px;
+right: 1px;
+display:flex;
+background: linear-gradient(180deg, #000000 30.6%, rgba(255, 168, 0, 0.92) 100%);
+}
+
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 1 */
+
+
+
+
+#block1_1{position: absolute;
+width: 648px;
+height: 198px;
+left: 4%;
+top: 150px;
+background: #FFFFFF;
+z-index:2;
+}
+/* Babylon */
+
+.babylon{
+position: absolute;
+width: 261px;
+height: 66px;
+left: 251px;
+top: 182px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 78px;
+
+color: #000000;
+z-index:3;
+}
+
+
+/* Создание и обслуживание сайтов или интернет магазинов для малого бизнеса */
+
+.text_block1_1{
+position: absolute;
+width: 456px;
+height: 42px;
+left: 251px;
+top: 264px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #000000;
+z-index:3;
+}
+
+#babylon_icon{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 123px;
+top: 201px;
+
+background: url(tower-of-babel.png);
+
+z-index:3;
+}
+#Fon_block1{
+position: absolute;
+width: 1340px;
+height: 920px;
+left: 0px;
+top: 0px;
+
+
+
+z-index:1;
+background: url(fon.png);
+}
+#menu{
+position: absolute;
+width: 100%;
+height: 96px;
+left: 0px;
+top: 0px;
+z-index:2;
+background: linear-gradient(180deg, rgba(223, 161, 0, 0.88) 16.95%, rgba(255, 216, 78, 0.79) 60.62%, rgba(213, 140, 0, 0.45) 100%);
+box-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+
+
+
+#v2{
+position: absolute;
+width: 111px;
+height: 32px;
+left: 89px;
+top: 30px;
+z-index:3;
+background: url(a3.png);;
+}
+
+#v3{
+position: absolute;
+width: 195px;
+height: 32.19px;
+left: 299px;
+top: 29.9px;
+
+z-index:3;
+background: url(a2.png);}
+
+
+#v6{position: absolute;
+width: 182px;
+height: 34px;
+left: 85%;
+top: 28px;
+z-index:3;
+background: url(a1.png);}
+
+/* +7 (111) 222-33-34 */
+
+
+.number{position: absolute;
+width: 140px;
+height: 21px;
+left: 86%;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+/* Главная */
+
+
+.glav{position: absolute;
+width: 70px;
+height: 21px;
+left: 111px;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Услуги */
+
+
+.uslugi{position: absolute;
+width: 60px;
+height: 21px;
+left: 221px;
+top: 38px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Прайс-лист */
+
+
+.price{position: absolute;
+width: 154px;
+height: 21px;
+left: 321px;
+top: 38px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+#predlog{position: absolute;
+width: 500px;
+height: 265px;
+left: 90px;
+top: 585px;
+z-index:2;
+background: rgba(255, 255, 255, 0.6);}
+
+.text_predlog_1{/* От интернет-магазина до сайта-визитки */
+
+
+position: absolute;
+width: 420px;
+height: 76px;
+left: 122px;
+top: 617px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+z-index:3;
+color: #000000;}
+
+.text_predlog_2{position: absolute;
+width: 278px;
+height: 42px;
+left: 123px;
+top: 709px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+z-index:3;
+color: #000000;}
+
+.button_1{
+position: absolute;
+width: 142px;
+height: 37px;
+left: 123px;
+top: 789px;
+z-index:4;
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;
+}
+/* Заказать */
+
+.button_1_text{
+position: absolute;
+width: 78px;
+height: 21px;
+left: 155px;
+top: 797px;
+z-index:5;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+color: #FFFAFA;
+}
+
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 2 */
+
+
+#target_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 17%;
+top: 1094px;
+z-index:2;
+background: url(target.png);
+}
+
+/* trusted 1 */
+
+#trusted_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 48%;
+top: 1079px;
+z-index:2;
+background: url(trusted.png);
+}
+/* branding 1 */
+
+#branding_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 75%;
+top: 1074px;
+z-index:2;
+background: url(branding.png);
+}
+
+/* bullhorn 1 */
+
+#bullhorn_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 31%;
+top: 1360px;
+z-index:2;
+background: url(bullhorn.png);
+}
+
+/* theater 1 */
+
+#theater_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 61%;
+top: 1366px;
+z-index:2;
+background: url(theater.png);
+}
+
+/* Привлечение клиентов */
+
+.textup_blok_2_1{
+position: absolute;
+width: 214px;
+height: 21px;
+left: 14%;
+top: 1206px;
+z-index:2;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_2_2{/* Улучшение репутации и рост доверия */
+
+
+position: absolute;
+width: 349px;
+height: 21px;
+left: 41.5%;
+top: 1191px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_3{/* Формирование бренда */
+
+
+position: absolute;
+width: 212px;
+height: 21px;
+left: 72%;
+top: 1186px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_4{z-index:2;position: absolute;
+width: 361px;
+height: 21px;
+left: 23%;
+top: 1472px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+color: #FFFFFF;}
+
+.textup_blok_2_5{z-index:2;position: absolute;
+width: 346px;
+height: 21px;
+left: 54%;
+top: 1478px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_1{
+/* Если кто-то заинтересуется вашей компанией, то наверняка попытается найти вас через Google или Яндекс. */
+
+
+position: absolute;
+width: 384px;
+height: 63px;
+left:9%;
+top: 1243px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+z-index:2
+color: #FFFFFF;}
+
+.text_blok_2_1_2{/* Сайт в индивидуальном стиле и с большим количеством полезного контента вызывает доверие к компании. */
+
+
+position: absolute;
+width: 290px;
+height: 84px;
+left: 43%;
+top: 1228px;
+
+/* текст мал */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.text_blok_2_1_3{/* С помощью сайта вы транслируете: концепцию, стиль, всю линейку продуктов, отзывы покупателей, сведения и новости о вас в СМИ. */
+
+
+position: absolute;
+width: 320px;
+height: 105px;
+left: 69%;
+top: 1223px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFEFE;
+}
+.text_blok_2_1_4{/* Официальный сайт повышает вашу узнаваемость и дает дополнительные возможности для рекламы. */
+
+
+position: absolute;
+width: 303px;
+height: 84px;
+left: 25%;
+top: 1509px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_5{/* На сайте вы можете подробно рассказывать о преимуществах продуктов и услуг, скидках, акциях, важных событиях и мероприятиях, спецпредложениях. */
+
+
+position: absolute;
+width: 397px;
+height: 84px;
+left: 53%;
+top: 1515px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#foto{/* kisspng-website-development-web-design-newsletter-graphic-creative-toy-content-agency-seattle-washington-toy-5b6df62fdda759 1 */
+
+
+position: absolute;
+width: 1182px;
+height: 1182px;
+left: 20%;
+top: 1631px;
+
+background: url(foto.png);}
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 3 */
+
+.textup_blok_3_1{/* Удобные для посетителей */
+
+
+position: absolute;
+width: 237px;
+height: 21px;
+left: 10%;
+top: 3099px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_3_2{/* */
+
+
+position: absolute;
+width: 374px;
+height: 24px;
+left: 42%;
+top: 3099px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.textup_blok_3_3{/* Есть всё необходимое. Неограниченное количество страниц */
+
+
+position: absolute;
+width: 279px;
+height: 63px;
+left: 75%;
+top: 3099px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_blok_3{/* Наши сайты... */
+
+
+position: absolute;
+width: 458px;
+height: 78px;
+left: 38%;
+top: 2845px;
+
+/* текст заг */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+#convenient{/* convenient 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 14%;
+top: 2987px;
+
+background: url(convenient.png);}
+
+#fast-time{/* fast-time 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 49%;
+top: 3003px;
+
+background: url(fast-time.png);}
+#landing-page{/* landing-page 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 80%;
+top: 2987px;
+
+background: url(landing-page.png);}
+
+.text_blok_3_1_1{/* Мы отслеживаем и анализируем поведение пользователей через карты кликов, скроллинга и вебвизор. На основании полученных данных мы улучшаем и дорабатываем дизайн наших сайтов так, чтобы они были максимально удобными для посетителей и продающими. */
+
+
+position: absolute;
+width: 379px;
+height: 168px;
+left: 6%;
+top: 3136px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_2{/* Скорость восприятия страницы ~1-2 секунды, наши сайты открываются даже быстрее (включая мобильные устройства), что подтверждено Chrome DevTools. Это важно для SEO продвижения. */
+
+
+position: absolute;
+width: 470px;
+height: 84px;
+left: 39%;
+top: 3139px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_3{/* Даже самый дешевый сайт за 5500 имеет такие же технические возможности, что и сайты от 105 000 рублей. Отличие только во внешнем виде и проработке контента. */
+
+
+position: absolute;
+width: 346px;
+height: 105px;
+left: 73%;
+top: 3178px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 4 */
+
+#Block4{/* Rectangle 6 */
+
+
+position: absolute;
+width: 992px;
+height: 320px;
+left: 22%;
+top: 3368px;
+z-index:2;
+background: rgba(255, 255, 255, 0.74);}
+
+.textup_blok_4{/* Желаете заказать сайт? */
+
+
+position: absolute;
+width: 801px;
+height: 78px;
+left: 24%;
+top: 3400px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #000000;}
+
+.text_blok_4{/* Свяжитесь с нами или выберите один из вариантов по прайс-листу */
+
+
+position: absolute;
+width: 928px;
+height: 78px;
+left: 24%;
+top: 3494px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;}
+
+#button_2{/* Rectangle 6 */
+
+z-index:3;
+position: absolute;
+width: 298px;
+height: 53px;
+left: 29%;
+top: 3604px;
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+#button_3{/* Rectangle 7 */
+
+z-index:3;
+position: absolute;
+width: 298px;
+height: 53px;
+left: 52%;
+top: 3603px;
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+.buttontext_2{position: absolute;
+width: 170px;
+height: 39px;
+left: 32.5%;
+top: 3611px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.buttontext_3{position: absolute;
+
+left: 55%;
+top: 3608px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1200px){
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 1 */
+#block1_1{position: absolute;
+width: 648px;
+height: 198px;
+left: 8%;
+top: 150px;
+background: #FFFFFF;
+z-index:2;
+}
+/* Babylon */
+
+.babylon{
+position: absolute;
+width: 261px;
+height: 66px;
+left: 20.5%;
+top: 182px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 78px;
+
+color: #000000;
+z-index:3;
+}
+
+
+/* Создание и обслуживание сайтов или интернет магазинов для малого бизнеса */
+
+.text_block1_1{
+position: absolute;
+width: 456px;
+height: 42px;
+left: 21%;
+top: 264px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #000000;
+z-index:3;
+}
+
+#babylon_icon{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 10.5%;
+top: 201px;
+
+background: url(tower-of-babel.png);
+
+z-index:3;
+}
+
+
+
+#Fon_block1{
+position: absolute;
+width: 1024px;
+height: 892px;
+
+
+top: 0px;
+z-index:1;
+background: url(fon2.png);
+}
+
+
+
+#v5{position: absolute;
+width: 0px;
+height: 32px;
+left: 94.5%;
+top: 32px;
+z-index:3;
+border: 0.5px solid rgba(0, 0, 0, 0.39);
+filter: blur(0.5px);}
+
+#v6{position: absolute;
+width: 181px;
+height: 31.9px;
+left: 76%;
+top: 29.9px;
+z-index:3;
+
+
+
+background: url(a1.png)}
+
+/* +7 (111) 222-33-34 */
+
+
+.number{position: absolute;
+width: 140px;
+height: 21px;
+left: 78%;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 2 */
+
+
+#target_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 17%;
+top: 1094px;
+z-index:2;
+background: url(target.png);
+}
+
+/* trusted 1 */
+
+#trusted_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 60%;
+top: 1079px;
+z-index:2;
+background: url(trusted.png);
+}
+/* branding 1 */
+
+#branding_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 17%;
+top: 1612px;
+z-index:2;
+background: url(branding.png);
+}
+
+/* bullhorn 1 */
+
+#bullhorn_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 17%;
+top: 1360px;
+z-index:2;
+background: url(bullhorn.png);
+}
+
+/* theater 1 */
+
+#theater_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 60%;
+top: 1366px;
+z-index:2;
+background: url(theater.png);
+}
+
+/* Привлечение клиентов */
+
+.textup_blok_2_1{
+position: absolute;
+width: 214px;
+height: 21px;
+left: 12%;
+top: 1206px;
+z-index:2;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_2_2{/* Улучшение репутации и рост доверия */
+
+
+position: absolute;
+width: 349px;
+height: 21px;
+left: 46.5%;
+top: 1191px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_3{/* Формирование бренда */
+
+
+position: absolute;
+width: 212px;
+height: 21px;
+left: 11%;
+top: 1704px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_4{z-index:2;position: absolute;
+width: 361px;
+height: 21px;
+left: 4%;
+top: 1472px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+color: #FFFFFF;}
+
+.textup_blok_2_5{z-index:2;position: absolute;
+width: 346px;
+height: 21px;
+left: 48%;
+top: 1478px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_1{
+/* Если кто-то заинтересуется вашей компанией, то наверняка попытается найти вас через Google или Яндекс. */
+
+
+position: absolute;
+width: 384px;
+height: 63px;
+left:3%;
+top: 1243px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+z-index:2
+color: #FFFFFF;}
+
+.text_blok_2_1_2{/* Сайт в индивидуальном стиле и с большим количеством полезного контента вызывает доверие к компании. */
+
+
+position: absolute;
+width: 290px;
+height: 84px;
+left: 50%;
+top: 1228px;
+
+/* текст мал */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.text_blok_2_1_3{/* С помощью сайта вы транслируете: концепцию, стиль, всю линейку продуктов, отзывы покупателей, сведения и новости о вас в СМИ. */
+
+
+position: absolute;
+width: 320px;
+height: 105px;
+left: 5%;
+top: 1741px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFEFE;
+}
+.text_blok_2_1_4{/* Официальный сайт повышает вашу узнаваемость и дает дополнительные возможности для рекламы. */
+
+
+position: absolute;
+width: 303px;
+height: 84px;
+left: 6%;
+top: 1509px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_5{/* На сайте вы можете подробно рассказывать о преимуществах продуктов и услуг, скидках, акциях, важных событиях и мероприятиях, спецпредложениях. */
+
+
+position: absolute;
+width: 397px;
+height: 84px;
+left: 45%;
+top: 1515px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#foto{/* kisspng-website-development-web-design-newsletter-graphic-creative-toy-content-agency-seattle-washington-toy-5b6df62fdda759 1 */
+
+
+position: absolute;
+width: 905px;
+height: 905px;
+left: 6%;
+top: 1967px;
+
+background: url(foto2.png);}
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 3 */
+
+.textup_blok_3_1{/* Удобные для посетителей */
+
+
+position: absolute;
+width: 237px;
+height: 21px;
+left: 18%;
+top: 3099px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_3_2{/* */
+
+
+position: absolute;
+width: 374px;
+height: 24px;
+left: 54%;
+top: 3099px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.textup_blok_3_3{/* Есть всё необходимое. Неограниченное количество страниц */
+
+
+position: absolute;
+width: 279px;
+height: 63px;
+left: 16%;
+top: 3473px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_blok_3{/* Наши сайты... */
+
+
+position: absolute;
+width: 458px;
+height: 78px;
+left: 30%;
+top: 2845px;
+
+/* текст заг */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+#convenient{/* convenient 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 25%;
+top: 2987px;
+
+background: url(convenient.png);}
+
+#fast-time{/* fast-time 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 65%;
+top: 3003px;
+
+background: url(fast-time.png);}
+#landing-page{/* landing-page 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 25%;
+top: 3345px;
+
+background: url(landing-page.png);}
+
+.text_blok_3_1_1{/* Мы отслеживаем и анализируем поведение пользователей через карты кликов, скроллинга и вебвизор. На основании полученных данных мы улучшаем и дорабатываем дизайн наших сайтов так, чтобы они были максимально удобными для посетителей и продающими. */
+
+
+position: absolute;
+width: 379px;
+height: 168px;
+left: 10%;
+top: 3136px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_2{/* Скорость восприятия страницы ~1-2 секунды, наши сайты открываются даже быстрее (включая мобильные устройства), что подтверждено Chrome DevTools. Это важно для SEO продвижения. */
+
+
+position: absolute;
+width: 470px;
+height: 84px;
+left: 48%;
+top: 3139px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_3{/* Даже самый дешевый сайт за 5500 имеет такие же технические возможности, что и сайты от 105 000 рублей. Отличие только во внешнем виде и проработке контента. */
+
+
+position: absolute;
+width: 346px;
+height: 105px;
+left: 12%;
+top: 3548px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 4 */
+
+#Block4{/* Rectangle 6 */
+
+
+position: absolute;
+width: 818px;
+height: 464px;
+left:11%;
+top: 3718px;
+z-index:2;
+background: rgba(255, 255, 255, 0.74);}
+
+.textup_blok_4{/* Желаете заказать сайт? */
+
+
+position: absolute;
+width: 572px;
+height: 156px;
+left: 17%;
+top: 3760px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #000000;}
+
+.text_blok_4{/* Свяжитесь с нами или выберите один из вариантов по прайс-листу */
+
+
+position: absolute;
+width: 664px;
+height: 78px;
+left: 17%;
+top: 3931px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;}
+
+#button_2{/* Rectangle 6 */
+
+z-index:3;
+position: absolute;
+width: 298px;
+height: 53px;
+left: 18%;
+top: 4064px;
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+#button_3{/* Rectangle 7 */
+
+z-index:3;
+position: absolute;
+width: 298px;
+height: 53px;
+left: 52%;
+top: 4064px;
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+.buttontext_2{position: absolute;
+width: 170px;
+height: 39px;
+left: 23.5%;
+top: 4070px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.buttontext_3{position: absolute;
+
+left: 57%;
+top: 4070px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 750px){
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 1 */
+#block1_1{position: absolute;
+position: absolute;
+width: 487px;
+height: 197px;
+left: 24px;
+top: 120px;
+background: #FFFFFF;
+z-index:2;
+}
+/* Babylon */
+
+.babylon{
+position: absolute;
+width: 261px;
+height: 66px;
+left: 21.5%;
+top: 151.9px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 78px;
+
+color: #000000;
+z-index:3;
+}
+
+
+/* Создание и обслуживание сайтов или интернет магазинов для малого бизнеса */
+
+.text_block1_1{
+position: absolute;
+width: 282px;
+height: 41px;
+left: 22%;
+top: 234px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #000000;
+z-index:3;
+}
+
+#babylon_icon{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 6%;
+top: 175px;
+
+background: url(tower-of-babel.png);
+
+z-index:3;
+}
+
+
+
+#Fon_block1{
+position: absolute;
+width: 730px;
+height: 893px;
+left: 0px;
+top: 0px;
+
+
+z-index:1;
+background: url(fon2.png);
+}
+
+
+
+#v2{
+position: absolute;
+width: 111px;
+height: 32px;
+left: 25.95px;
+top: 32.15px;
+z-index:3;
+background: url(a3.png);;
+}
+
+#v3{
+position: absolute;
+width: 195px;
+height: 32.19px;
+left: 235.54px;
+top: 32.15px;
+
+z-index:3;
+background: url(a2.png);}
+
+
+#v6{position: absolute;
+width: 182px;
+height: 34px;
+left: 470.04px;
+top: 32.15px;
+z-index:3;
+background: url(a1.png);}
+
+/* +7 (111) 222-33-34 */
+
+
+.number{position: absolute;
+width: 140px;
+height: 21px;
+left: 490px;
+top: 37.18px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+/* Главная */
+
+
+.glav{position: absolute;
+width: 70px;
+height: 21px;
+left: 45.91px;
+top: 37.18px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Услуги */
+
+
+.uslugi{position: absolute;
+width: 60px;
+height: 21px;
+left: 155.7px;
+top: 38.19px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Прайс-лист */
+
+
+.price{position: absolute;
+width: 154px;
+height: 21px;
+left: 257px;
+top: 40px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+#predlog{position: absolute;
+width: 500px;
+height: 264.14px;
+left: 22px;
+top: 560px;
+background: rgba(255, 255, 255, 0.6);}
+
+.text_predlog_1{/* От интернет-магазина до сайта-визитки */
+
+
+position: absolute;
+width: 420px;
+height: 75.75px;
+left: 54px;
+top: 591.9px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+z-index:3;
+color: #000000;}
+
+.text_predlog_2{position: absolute;
+width: 278px;
+height: 41.86px;
+left: 55px;
+top: 683.6px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+z-index:3;
+color: #000000;}
+
+.button_1{
+position: absolute;
+width: 142px;
+height: 36.88px;
+left: 55px;
+top: 763.33px;
+z-index:4;
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;
+}
+/* Заказать */
+
+.button_1_text{
+position: absolute;
+width: 78px;
+height: 20.93px;
+left: 87px;
+top: 771.31px;
+z-index:5;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+color: #FFFAFA;
+}
+
+
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 2 */
+
+
+#target_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 298px;
+top: 1113px;
+z-index:2;
+background: url(target.png);
+}
+
+/* trusted 1 */
+
+#trusted_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 298px;
+top: 1908px;
+z-index:2;
+background: url(trusted.png);
+}
+/* branding 1 */
+
+#branding_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 298px;
+top: 1622px;
+z-index:2;
+background: url(branding.png);
+}
+
+/* bullhorn 1 */
+
+#bullhorn_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 298px;
+top: 1357px;
+z-index:2;
+background: url(bullhorn.png);
+}
+
+/* theater 1 */
+
+#theater_1{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 298px;
+top: 2173px;
+z-index:2;
+background: url(theater.png);
+}
+
+/* Привлечение клиентов */
+
+.textup_blok_2_1{
+position: absolute;
+width: 214px;
+height: 21px;
+left: 239px;
+top: 1225px;
+z-index:2;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_2_2{/* Улучшение репутации и рост доверия */
+
+
+position: absolute;
+width: 349px;
+height: 21px;
+left: 171px;
+top: 2020px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_3{/* Формирование бренда */
+
+
+position: absolute;
+width: 212px;
+height: 21px;
+left: 240px;
+top: 1734px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+z-index:2;
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_blok_2_4{z-index:2;position: absolute;
+width: 361px;
+height: 21px;
+left: 165px;
+top: 1469px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+color: #FFFFFF;}
+
+.textup_blok_2_5{z-index:2;position: absolute;
+width: 346px;
+height: 21px;
+left: 173px;
+top: 2285px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_1{
+/* Если кто-то заинтересуется вашей компанией, то наверняка попытается найти вас через Google или Яндекс. */
+
+
+position: absolute;
+width: 384px;
+height: 63px;
+left: 154px;
+top: 1262px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+z-index:2
+color: #FFFFFF;}
+
+.text_blok_2_1_2{/* Сайт в индивидуальном стиле и с большим количеством полезного контента вызывает доверие к компании. */
+
+
+position: absolute;
+width: 290px;
+height: 84px;
+left: 201px;
+top: 2057px;
+
+/* текст мал */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.text_blok_2_1_3{/* С помощью сайта вы транслируете: концепцию, стиль, всю линейку продуктов, отзывы покупателей, сведения и новости о вас в СМИ. */
+
+
+width: 320px;
+height: 105px;
+left: 186px;
+top: 1771px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFEFE;
+}
+.text_blok_2_1_4{/* Официальный сайт повышает вашу узнаваемость и дает дополнительные возможности для рекламы. */
+
+
+position: absolute;
+width: 303px;
+height: 84px;
+left: 194px;
+top: 1506px;;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_blok_2_1_5{/* На сайте вы можете подробно рассказывать о преимуществах продуктов и услуг, скидках, акциях, важных событиях и мероприятиях, спецпредложениях. */
+
+
+position: absolute;
+width: 397px;
+height: 84px;
+left: 147px;
+top: 2322px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#foto{/* kisspng-website-development-web-design-newsletter-graphic-creative-toy-content-agency-seattle-washington-toy-5b6df62fdda759 1 */
+
+
+position: absolute;
+width: 600px;
+height: 600px;
+left: 47px;
+top: 2438px;
+
+background: url(foto3.png);}
+
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 3 */
+
+.textup_blok_3_1{/* Удобные для посетителей */
+
+
+position: absolute;
+width: 237px;
+height: 21px;
+left: 231px;
+top: 3323px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_blok_3_2{/* */
+
+
+position: absolute;
+width: 374px;
+height: 24px;
+left: 163px;
+top: 4000px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.textup_blok_3_3{/* Есть всё необходимое. Неограниченное количество страниц */
+
+
+position: absolute;
+width: 279px;
+height: 63px;
+left: 210px;
+top: 3672px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_blok_3{/* Наши сайты... */
+
+
+position: absolute;
+width: 458px;
+height: 78px;
+left: 116px;
+top: 3070px;
+
+/* текст заг */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+#convenient{/* convenient 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 302px;
+top: 3211px;
+
+background: url(convenient.png);}
+
+#fast-time{/* fast-time 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 302px;
+top: 3888px;
+
+background: url(fast-time.png);}
+#landing-page{/* landing-page 1 */
+
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 302px;
+top: 3560px;
+
+
+background: url(landing-page.png);}
+
+.text_blok_3_1_1{/* Мы отслеживаем и анализируем поведение пользователей через карты кликов, скроллинга и вебвизор. На основании полученных данных мы улучшаем и дорабатываем дизайн наших сайтов так, чтобы они были максимально удобными для посетителей и продающими. */
+
+
+position: absolute;
+width: 379px;
+height: 168px;
+left: 160px;
+top: 3360px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_2{/* Скорость восприятия страницы ~1-2 секунды, наши сайты открываются даже быстрее (включая мобильные устройства), что подтверждено Chrome DevTools. Это важно для SEO продвижения. */
+
+
+position: absolute;
+width: 470px;
+height: 84px;
+left: 115px;
+top: 4040px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.text_blok_3_1_3{/* Даже самый дешевый сайт за 5500 имеет такие же технические возможности, что и сайты от 105 000 рублей. Отличие только во внешнем виде и проработке контента. */
+
+
+position: absolute;
+width: 346px;
+height: 105px;
+left: 177px;
+top: 3751px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*________________________________________________________________________________________________________*/
+/* БЛОК 4 */
+
+#Block4{/* Rectangle 6 */
+
+
+position: absolute;
+width: 636px;
+height: 464px;
+left: 29px;
+top: 4208px;
+
+background: rgba(255, 255, 255, 0.74);}
+
+.textup_blok_4{/* Желаете заказать сайт? */
+
+
+position: absolute;
+width: 572px;
+height: 156px;
+left: 53px;
+top: 4232px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #000000;}
+
+.text_blok_4{/* Свяжитесь с нами или выберите один из вариантов по прайс-листу */
+
+
+position: absolute;
+width: 483px;
+height: 117px;
+left: 53px;
+top: 4404px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;}
+
+#button_2{/* Rectangle 6 */
+
+z-index:3;
+position: absolute;
+width: 253px;
+height: 47px;
+left: 53px;
+top: 4577px;
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+#button_3{/* Rectangle 7 */
+
+z-index:3;
+position: absolute;
+width: 253px;
+height: 47px;
+left: 388px;
+top: 4577px;
+
+
+background: linear-gradient(180deg, #090909 0%, #000000 23.88%, #453200 50.06%, #000000 74.37%, #000000 100%);
+border-radius: 6px;}
+
+.buttontext_2{position: absolute;
+width: 173px;
+height: 35px;
+left: 93px;
+top: 4583px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.buttontext_3{position: absolute;
+
+width: 199px;
+height: 46px;
+left: 415px;
+top: 4578px;
+z-index:4;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+
+
+
+
+}
+
+
+
+
+  

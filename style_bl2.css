@@ -1,0 +1,883 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,400&display=swap');
+#fon{
+position: absolute;
+width: 100%;
+height: 1765px;
+top: 0px;
+right: 1px;
+display:flex;
+
+background: linear-gradient(180deg, #000000 30.6%, rgba(255, 168, 0, 0.92) 100%);
+}
+
+/*Block1*/
+
+
+#menu{
+position: absolute;
+width: 100%;
+height: 96px;
+left: 0px;
+top: 0px;
+z-index:2;
+background: linear-gradient(180deg, rgba(223, 161, 0, 0.88) 16.95%, rgba(255, 216, 78, 0.79) 60.62%, rgba(213, 140, 0, 0.45) 100%);
+box-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+
+
+
+#v2{
+position: absolute;
+width: 111px;
+height: 32px;
+left: 89px;
+top: 30px;
+z-index:3;
+background: url(a3.png);;
+}
+
+#v3{
+position: absolute;
+width: 195px;
+height: 32.19px;
+left: 299px;
+top: 29.9px;
+
+z-index:3;
+background: url(a2.png);}
+
+
+#v6{position: absolute;
+width: 182px;
+height: 34px;
+left: 85%;
+top: 28px;
+z-index:3;
+background: url(a1.png);}
+
+/* +7 (111) 222-33-34 */
+
+
+.number{position: absolute;
+width: 140px;
+height: 21px;
+left: 86%;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+/* Главная */
+
+
+.glav{position: absolute;
+width: 70px;
+height: 21px;
+left: 111px;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Услуги */
+
+
+.uslugi{position: absolute;
+width: 60px;
+height: 21px;
+left: 221px;
+top: 38px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+
+
+
+/* Прайс-лист */
+
+
+.price{position: absolute;
+width: 154px;
+height: 21px;
+left: 321px;
+top: 38px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;}
+.text_1_1{/* Услуги */
+
+
+position: absolute;
+width: 230px;
+height: 78px;
+left: 43.5%;
+top: 128px;
+
+/* текст заг */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#l1{/* about1 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 15%;
+top: 876px;
+
+background: url(about1.png);}
+#l2{/* about2 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 46%;
+top: 876px;
+
+background: url(about2.png);}
+#l3{/* about3 1 */
+
+z-index:3;
+position: absolute;
+width: 96px;
+height: 96px;
+left: 74%;
+top: 876px;
+
+background: url(about3.png);}
+#l4{/* drugs 1 */
+
+z-index:3;
+position: absolute;
+width: 96px;
+height: 96px;
+left: 15%;
+top: 1294px;
+
+background: url(drugs.png);}
+#l5{/* stock 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 46%;
+top: 1294px;
+
+background: url(stock.png);}
+#l6{/* landing-page (1) 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 74%;
+top: 1294px;
+
+background: url(landing-page2.png);}
+#l7{/* service 1 */
+
+z-index:3;
+position: absolute;
+width: 512px;
+height: 512px;
+left: 36%;
+top: 222px;
+
+background: url(service.png);}
+
+
+
+.textup_1{/* Защита от вирусов */
+
+
+position: absolute;
+width: 170px;
+height: 21px;
+left: 13%;
+top: 988px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_2{/*  */
+
+
+position: absolute;
+width: 204px;
+height: 21px;
+left: 43%;
+top: 988px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_3{/* Востановление сайта */
+
+
+position: absolute;
+width: 195px;
+height: 21px;
+left: 71%;
+top: 988px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_4{/* Интернет-магазин */
+
+
+position: absolute;
+width: 167px;
+height: 21px;
+left: 13%;
+top: 1406px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_5{/* Продающая страница */
+
+
+position: absolute;
+width: 199px;
+height: 21px;
+left: 43%;
+top: 1406px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_6{/* Landing-page */
+
+
+position: absolute;
+width: 122px;
+height: 21px;
+left: 73%;
+top: 1406px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+
+
+
+
+.text_1{/* Детектирование любых типов вредоносных скриптов */
+
+
+position: absolute;
+width: 240px;
+height: 63px;
+left: 11%;
+top: 1025px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_2{/* Удаление вирусов и вредоносного кода в автоматическом режиме */
+
+
+position: absolute;
+width: 338px;
+height: 42px;
+left: 39%;
+top: 1024px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_3{/* Востановление из резервной копии сайта */
+
+
+position: absolute;
+width: 271px;
+height: 42px;
+left: 69%;
+top: 1025px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_4{/* Для наших интернет-магазинов мы нарисовали дизайн-макеты и сверстали страницы. Верстку подключили к двум системам управления сайтами: 1С-Битрикс (лучшая платная система в России) и WordPress (лучшая система в мире). */
+
+
+position: absolute;
+width: 385px;
+height: 126px;
+left: 7%;
+top: 1443px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFF9F9;}
+
+.text_5{/* Страница будет иметь грамотную структуру блоков, продающие заголовки, call-to-action, а также контент, проработанный маркетологом. Результат – более солидный и располагающий к себе покупателей сайт. */
+
+
+position: absolute;
+width: 362px;
+height: 147px;
+left: 38%;
+top: 1443px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.text_6{/* Продающий лендинг от компании Babylon рассказывает о товаре и услуге так, чтобы люди захотели это купить. Он увеличивает конверсию и, как следствие, снижает расходы на рекламу. */
+
+
+position: absolute;
+width: 352px;
+height: 126px;
+left: 67%;
+top: 1443px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1200px){
+
+
+#v6{position: absolute;
+width: 181px;
+height: 31.9px;
+left: 76%;
+top: 29.9px;
+z-index:3;
+
+
+
+background: url(a1.png)}
+
+/* +7 (111) 222-33-34 */
+
+
+.number{position: absolute;
+width: 140px;
+height: 21px;
+left: 78%;
+top: 37px;
+z-index:3;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+
+
+#fon{
+position: absolute;
+width: 100%;
+height: 1997px;
+
+
+background: linear-gradient(180deg, #000000 30.6%, rgba(255, 168, 0, 0.92) 100%);
+}
+
+
+
+
+.text_1_1{/* Услуги */
+
+
+position: absolute;
+width: 230px;
+height: 78px;
+left: 397px;
+top: 128px;
+
+/* текст заг */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#l1{/* about1 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 127px;
+top: 876px;
+
+
+background: url(about1.png);}
+#l2{/* about2 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 448px;
+top: 876px;;
+
+background: url(about2.png);}
+#l3{/* about3 1 */
+
+z-index:3;
+position: absolute;
+width: 96px;
+height: 96px;
+left: 786px;
+top: 876px;
+
+background: url(about3.png);}
+#l4{/* drugs 1 */
+
+z-index:3;
+position: absolute;
+width: 96px;
+height: 96px;
+left: 266px;
+top: 1262px;
+
+background: url(drugs.png);}
+#l5{/* stock 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 669px;
+top: 1262px;
+
+background: url(stock.png);}
+#l6{/* landing-page (1) 1 */
+z-index:3;
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 266px;
+top: 1590px;
+
+background: url(landing-page2.png);}
+#l7{/* service 1 */
+
+z-index:3;
+position: absolute;
+width: 512px;
+height: 512px;
+left: 256px;
+top: 222px
+
+background: url(service.png);}
+
+
+
+.textup_1{/* Защита от вирусов */
+
+
+position: absolute;
+width: 170px;
+height: 21px;
+left: 90px;
+top: 988px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+.textup_2{/*  */
+
+
+position: absolute;
+width: 204px;
+height: 21px;
+left: 395px;
+top: 988px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_3{/* Востановление сайта */
+
+
+position: absolute;
+width: 195px;
+height: 21px;
+left: 736px;
+top: 988px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_4{/* Интернет-магазин */
+
+
+position: absolute;
+width: 167px;
+height: 21px;
+left: 233px;
+top: 1374px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+.textup_5{/* Продающая страница */
+
+
+position: absolute;
+width: 199px;
+height: 21px;
+left: 617px;
+top: 1374px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.textup_6{/* Landing-page */
+
+
+position: absolute;
+width: 122px;
+height: 21px;
+left: 253px;
+top: 1702px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+
+
+
+
+.text_1{/* Детектирование любых типов вредоносных скриптов */
+
+
+position: absolute;
+width: 240px;
+height: 63px;
+left: 56px;
+top: 1025px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_2{/* Удаление вирусов и вредоносного кода в автоматическом режиме */
+
+
+position: absolute;
+width: 338px;
+height: 42px;
+left: 328px;
+top: 1024px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_3{/* Востановление из резервной копии сайта */
+
+
+position: absolute;
+width: 271px;
+height: 42px;
+left: 698px;
+top: 1025px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+.text_4{/* Для наших интернет-магазинов мы нарисовали дизайн-макеты и сверстали страницы. Верстку подключили к двум системам управления сайтами: 1С-Битрикс (лучшая платная система в России) и WordPress (лучшая система в мире). */
+
+
+position: absolute;
+width: 385px;
+height: 126px;
+left: 121px;
+top: 1411px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFF9F9;}
+
+.text_5{/* Страница будет иметь грамотную структуру блоков, продающие заголовки, call-to-action, а также контент, проработанный маркетологом. Результат – более солидный и располагающий к себе покупателей сайт. */
+
+
+position: absolute;
+width: 362px;
+height: 147px;
+left: 538px;
+top: 1411px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.text_6{/* Продающий лендинг от компании Babylon рассказывает о товаре и услуге так, чтобы люди захотели это купить. Он увеличивает конверсию и, как следствие, снижает расходы на рекламу. */
+
+
+position: absolute;
+width: 352px;
+height: 126px;
+left: 138px;
+top: 1739px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;}
+
+
+
+}
